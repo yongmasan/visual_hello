@@ -7,6 +7,7 @@ namespace visual_hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+			Console.WriteLine("World on github");
 			Console.WriteLine("Earth on Local repository");
 		}
     }
